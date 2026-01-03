@@ -1,0 +1,21 @@
+doctor_id,doctor_name,department,experience_years,employment_type
+D201,Dr. Name0,Orthopedics,11,Visiting
+D202,Dr. Name1,Pediatrics,24,Visiting
+D203,Dr. Name2,Pediatrics,19,Visiting
+D204,Dr. Name3,Neurology,15,Visiting
+D205,Dr. Name4,Pediatrics,12,Visiting
+D206,Dr. Name5,Pediatrics,25,Visiting
+D207,Dr. Name6,Cardiology,11,Visiting
+D208,Dr. Name7,Neurology,30,Visiting
+D209,Dr. Name8,Dermatology,23,Full-time
+D210,Dr. Name9,Neurology,27,Full-time
+D211,Dr. Name10,Dermatology,15,Visiting
+D212,Dr. Name11,Cardiology,15,Visiting
+D213,Dr. Name12,Orthopedics,28,Visiting
+D214,Dr. Name13,Pediatrics,25,Full-time
+D215,Dr. Name14,Cardiology,8,Visiting
+D216,Dr. Name15,Pediatrics,12,Full-time
+D217,Dr. Name16,Orthopedics,28,Full-time
+D218,Dr. Name17,Orthopedics,7,Full-time
+D219,Dr. Name18,Cardiology,26,Full-time
+D220,Dr. Name19,Orthopedics,25,Full-time
